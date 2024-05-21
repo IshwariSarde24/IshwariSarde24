@@ -1,8 +1,8 @@
 👋 Welcome to IshwariSarde24's GitHub Profile 👨‍💻
 
 About Me ℹ️
-Hello there! I'm passionate about **data analysis** and **data science**, constantly exploring new techniques and tools to derive insights from data 📊.
-With a background in Mathematical Statidtics, I bring a solid foundation in Statistics and Analytical thinking.My course has equipped me with strong statistical background.
+-Hello there! I'm passionate about **data analysis** and **data science**, constantly exploring new techniques and tools to derive insights from data 📊.
+-With a background in Mathematical Statidtics, I bring a solid foundation in Statistics and Analytical thinking.My course has equipped me with strong statistical background.
 
 💻 What I Do 🛠️
 Data Analysis: 📊 Leveraging statistical methods and visualization techniques to explore, interpret, and present data.
