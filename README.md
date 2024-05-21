@@ -29,6 +29,7 @@ Data Visualization Tools:  Matplotlib, Seaborn, Power bi
 Database Management:  SQL
 
 🌐 Let's Connect!
+
 LinkedIn: www.linkedin.com/in/ishwari-sarde-4b2a26252
 Email: ishwarisarde5951@gmail.com
 
