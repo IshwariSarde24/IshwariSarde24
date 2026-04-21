@@ -46,7 +46,7 @@ I enjoy transforming complex real-world data into **meaningful insights and pred
 
 ## 🚀 Featured Projects 
 
-# 🔹 Aedes-Borne Disease Prediction (ICMR)
+### 🔹 Aedes-Borne Disease Prediction (ICMR)
 Conducted spatio-temporal analysis of ward-level dengue and chikungunya data (2021–2024), integrating lagged meteorological variables, population density, prior case burden, and entomological indices
 Performed extensive EDA, feature engineering, and missing data imputation on large-scale surveillance datasets
 Implemented statistical models: Negative Binomial, GLMM, GAM, LASSO to capture overdispersion and nonlinear relationships
@@ -56,7 +56,7 @@ Demonstrated that prior case burden and climatic variables outperform traditiona
 Developed a stacked LSTM model (ReLU activation) achieving best performance for temporal forecasting
 Delivered insights to support early outbreak detection, targeted vector surveillance, and public health decision-making
 
-# 🔹 Avian Influenza Risk Modelling in India (ICMR)
+### 🔹 Avian Influenza Risk Modelling in India (ICMR)
 Compiled and integrated national HPAI outbreak data (2006–2025) from WAHIS and EMPRES-i with NASA-derived climatic variables
 Engineered spatial features including wetland proximity and migratory bird flyways to model ecological risk factors
 Performed spatial analysis using Global Moran’s I and LISA to identify significant outbreak clusters and hotspot regions
